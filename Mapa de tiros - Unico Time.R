@@ -20,9 +20,6 @@ ggplot(coord) +
              colour = "green",
              size = 4) +
   scale_shape_manual(values=c(19)) +
-  #                   labels=c("Gol","Bloqueado","No gol","Fora")) +
-  #scale_shape_manual(values=c(17,4,19,15)) +
-  #                   labels=c("Fora", "Bloqueado","Gol","No gol")) +
   
   #Definição de texto
   labs (colour = "TIMES",
